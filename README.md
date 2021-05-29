@@ -1,4 +1,4 @@
-# **Overview**
+# **OvernmentOfficalsApp Overview**
 
 The Government Officials Android app is an app that generates an interactive list of political officials representing the individual's current location at each level of government; includes up-to-date official positions & contact information."
 
@@ -6,4 +6,4 @@ Before running, you must sign up with Google to get an API key. Your API KEY mus
 
 Follow the instructions for “Acquiring and using an API key”. The type of credential you need to create is “API Key” (not “OAuth client ID” and not “Service account key”). The API key will be a long string of characters. The results of Civic Information API calls are returned in JSON format.
 
-Add your API key to "DataLoaderRunnable.java"."# GovernmentOfficialsApp" 
+Add your API key to "DataLoaderRunnable.java".

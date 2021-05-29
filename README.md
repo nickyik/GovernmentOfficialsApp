@@ -1,4 +1,4 @@
-# **OvernmentOfficalsApp Overview**
+# **GovernmentOfficalsApp Overview**
 
 The Government Officials Android app is an app that generates an interactive list of political officials representing the individual's current location at each level of government; includes up-to-date official positions & contact information."
 
